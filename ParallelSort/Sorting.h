@@ -1,4 +1,4 @@
-#pragma once
+#pragma once/*
 #include "Row.h"
 
 template<class In>
@@ -68,3 +68,4 @@ void merge_sort_parallel(In b, In e) { // merge_sort parallel
 	}
 }
 
+*/

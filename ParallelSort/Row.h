@@ -5,8 +5,7 @@
 class Row
 {
 public:
-	std::vector<int> Nums;
-	std::string Name;
+	std::vector<std::vector<int>::iterator> Cells;
 	Row();
 	~Row();
 	friend bool operator < (Row a, Row b);
